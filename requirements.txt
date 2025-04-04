@@ -1,3 +1,6 @@
 streamlit
 langchain
 sumy
+pypdf
+langchain_community
+PyPDF2
