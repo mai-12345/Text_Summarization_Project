@@ -4,3 +4,4 @@ sumy
 pypdf
 langchain_community
 PyPDF2
+nltk
