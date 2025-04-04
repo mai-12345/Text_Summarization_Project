@@ -1,11 +1,9 @@
-streamlit
+
 langchain
-sumy
 pypdf
-langchain_community
 PyPDF2
 nltk
-numpy
-scikit-learn
-pandas
-spacy
+pyarabic
+streamlit
+sumy
+langchain_community
